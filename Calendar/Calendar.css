@@ -1,0 +1,168 @@
+#gridContainer .dx-header-row td {
+  background-color: #2B4B60;
+  color: white;
+  font-size: 13px;
+  text-align: center !important;
+}
+
+#gridContainer tr:nth-child(even) {
+  background-color: #eceff4;
+}
+
+#gridContainer tr:nth-child(odd) {
+  background-color: #fff;
+}
+
+
+.color999 {
+  color: #999 !important;
+  padding-left: 8px;
+  padding-top: 8px;
+}
+
+.dx-datagrid-header-panel .dx-toolbar {
+  margin-top: 5px;
+}
+
+.dx-toolbar .dx-toolbar-after {
+  padding-right: 8px;
+}
+
+
+.Add-button-in-learn {
+  float: right;
+  width: 150px;
+  margin-right: 10px;
+  margin-top: 7px;
+  background-color: #f87e24;
+  color: #fff;
+  border: 1px solid #f87e24;
+  font-weight: bold;
+  height: 33px;
+
+}
+
+.btn-group-xs>.btn, .btn-xs {
+  border-radius: 10px !important;
+}
+
+.dx-link-delete {
+  color: #f26522 !important;
+}
+
+.dx-link-edit {
+  color: #2B4B60 !important;
+}
+
+.dx-icon-close {
+  color: white !important;
+}
+
+.switch-group .btn-success {
+  background-color: #6ca62b !important;
+  outline-color: #6ca62b !important;
+  --bs-btn-border-color: none !important;
+  --bs-btn-active-border-color: none !important;
+  --bs-btn-disabled-border-color: none !important;
+  --bs-btn-bg: none !important;
+  border: 0px solid#6ca62b !important;
+
+}
+
+.dx-popup-bottom {
+  background-color: gainsboro !important;
+  border: 1px solid gainsboro !important;
+  box-shadow: none !important;
+}
+
+.dx-button-mode-contained {
+  color: white !important;
+}
+
+.save-button-popup {
+  background-color: #f87e24 !important;
+}
+
+.cancel-button-popup {
+  background-color: #f26522 !important;
+}
+
+.class-name {
+  background-color: red !important;
+}
+
+.max-width-sections {
+  max-width: 100% !important;
+}
+
+/* ====== */
+.image-class {
+  width: 100px !important;
+  height: 100px !important;
+  margin-left: 2%;
+  margin-top: 2%;
+}
+
+.btn-success {
+  margin-right: 1% !important;
+  background-color: #f87e24 !important;
+  border: 1px solid #f87e24 !important;
+  color: white;
+}
+
+.btn-warning {
+  background-color: #f26522 !important;
+  border: 1px solid #f26522 !important;
+  color: white !important;
+}
+
+.middle-outer-div-brands {
+  width: 100% !important;
+}
+
+.max-width-section-brands {
+  width: auto !important;
+}
+
+.padding-products {
+  margin-top: 30px;
+}
+
+.stick-to-bottom {
+  margin-top: 20px;
+}
+
+.min-hight-claculation {
+  height: auto;
+
+}
+
+.space-provide {
+  width: 100%;
+  height: 70px;
+}
+
+.margin-top-product {
+  margin-top: 22px;
+}
+
+.width-success {
+  width: 100px;
+}
+
+.firmNavbarTab .nav-link.active {
+  background-color: #cbf27e;
+  border-color: #cbf27e;
+  height: 40px !important;
+}
+
+.firmNavbarTab .nav-link {
+  height: 40px !important;
+  color: #514d6a;
+}
+
+.firmNavbarTab.nav-tabs {
+  padding-left: 20px !important;
+  padding-top: 10px !important;
+  height: 50px !important;
+}
